@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =5
+let g:netrw_dirhist_5='/home/by/Desktop/tutoriales/addProduct/nodeJS/adminProductos'
+let g:netrw_dirhist_4='/home/by/Desktop/tutoriales/addProduct/nodeJS'
+let g:netrw_dirhist_3='/home/by/Public/menuAmazon'
+let g:netrw_dirhist_2='/home/by/Public'
+let g:netrw_dirhist_1='/home/by/Pictures'
+let g:netrw_dirhist_0='/home/by'
+let g:netrw_dirhist_9='/home/by/Desktop/tutoriales'
+let g:netrw_dirhist_8='/home/by/Desktop'
+let g:netrw_dirhist_7='/home/by/Desktop/blog-25-05'
+let g:netrw_dirhist_6='/home/by/Desktop/blog-25-05/js'
